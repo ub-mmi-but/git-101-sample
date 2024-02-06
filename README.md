@@ -3,5 +3,5 @@
 Ce dépôt est présent à titre d'exemple, il n'a aucun autre intérêt.
 
 ```bash 
-git log --graph
+git log --graph -all
 ```
